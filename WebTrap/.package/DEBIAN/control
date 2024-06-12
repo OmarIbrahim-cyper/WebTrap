@@ -1,0 +1,7 @@
+Package: WebTrap
+Version: 1.5
+Installed-Size: 9400
+Architecture: all
+Maintainer: Bad-Villain
+Depends: php, wget, git, curl
+Description: PhishMaster is your ultimate tool for creating realistic fake pages designed for ethical hacking and social engineering experiments. Perfect for cybersecurity professionals and ethical hackers, this tool allows you to simulate phishing attacks to test and strengthen security protocols
